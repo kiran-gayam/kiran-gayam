@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Cotton candy was invented by a dentist
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiran-gayam&theme=radical)
